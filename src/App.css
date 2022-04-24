@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.Navbar {
+  background-color: #a00505;
+}
+
+.brandText {
+  font-family: 'Lobster', cursive;
+  color: rgb(85, 0, 0);
+  text-decoration: none;
+}
+
+.me-auto {
+
+  margin-left: 40vh;
+  padding-right: 40px;
+
+}
+
+.cartIcon{
+
+  margin-top: 5px;
+  margin-left: 30vh;
+
+}
+
+.userAvatar{
+
+  margin-top: 5px;
+  margin-left: 2vh;
+
+}
+
+.cartIcon:hover, .userAvatar:hover{
+
+  border-radius: 12px;
+  background-color: greenyellow;
+
+}
+
+.bg-image{
+  width: 100%;
+}
+
+.bg-image h1{
+
+  color: black;
+  padding-bottom: 10vh;
+  font-size: 150px;
+  opacity: 0.95;
+}
+
+.bg-image p{
+
+  padding-bottom: 20vh;
+  font-size: 65px;
+  opacity: 0.95;
+
+}
+
+.bg-image img{
+  filter: brightness(86%);
+}
